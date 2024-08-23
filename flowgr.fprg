@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Chaudhary"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-08-23 10:55:17 PM"/>
+        <attribute name="created" value="Q2hhdWRoYXJ5O0lOVEVMOzIwMjQtMDgtMjM7MTA6NTI6NTYgUE07MjU4NQ=="/>
+        <attribute name="edited" value="Q2hhdWRoYXJ5O0lOVEVMOzIwMjQtMDgtMjM7MTA6NTU6MTcgUE07MTsyNjkz"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <input variable="enter a"/>
+            <input variable="enter b"/>
+            <if expression="">
+                <then>
+                    <input variable=""/>
+                </then>
+                <else/>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
